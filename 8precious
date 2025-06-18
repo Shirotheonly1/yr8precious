@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Yr8 Precious - Home</title>
+ <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Welcome to Yr8 Precious</h1>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="students.html">All Students</a>
+    </nav>
+  </header>
+<main>
+  <h2>Hello from Yr8 Precious!</h2>
+  <p>We are a class of 26 students, we may be noisy but our brains overpower that(we think)</p>
+  <p>We are the supposed "A" class of Year 8</p>
+
+  <h2>📸 Our Class Photos</h2>
+  <div class="photo-gallery">
+    <img src="photo3.jpg" alt="Group Photo 1" id="img3">
+    <img src="photo2.jpg" alt="Exam days" id="img2">
+    <img src="photo1.jpg" alt="Activity Day">
+    <!-- Add more photos as needed -->
+  </div>
+</main>
+</body>
+</html>
